@@ -45,7 +45,7 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 * 📁 **Arquivo:** `formularios_html`
 
-* 💻 [Formulários e Elementos de Entrada em HTML](formularios_html)
+* 💻 [Formulários e Elementos de Entrada em HTML](formularios_.html)
 
 * **Descrição:** Página desenvolvida para praticar a criação de formulários em HTML, utilizando campos de texto, botões de envio, opções de seleção (radio e checkbox), telefone, data de nascimento, labels e agrupamento de elementos com fieldset.
 
