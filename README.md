@@ -57,7 +57,13 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 * **Descrição:** Página desenvolvida para praticar a criação e formatação de tabelas em HTML, utilizando linhas, colunas, cabeçalhos, células, legendas e atributos como `colspan` e `rowspan`, além de estilização com CSS para definir bordas, espaçamento, cores e alinhamento.
 
+<br>
 
+* 📁 **Arquivo:** `estilizacao_tabelas.html`
+
+* 💻 [Estilização de Tabelas com HTML e CSS](estilizacao_tabelas.html)
+
+* **Descrição:** Página desenvolvida para praticar a estilização de tabelas utilizando HTML e CSS, aplicando bordas, espaçamento interno, alinhamento de texto, cores de fundo e personalização de linhas pares e ímpares com o seletor nth-child().
 
 
 
