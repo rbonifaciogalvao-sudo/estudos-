@@ -18,7 +18,7 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 <br>
 
-* 📁 **Arquivo:** `exemplo2.html`
+* 📁 **Arquivo:** `primeiro_uso_vscode.html`
 
 * 💻 [Primeiro uso do VScode – Listas e Campos de Entrada em HTML](primeiro_uso_vscode.html)
 
