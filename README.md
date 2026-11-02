@@ -49,7 +49,13 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 * **Descrição:** Página desenvolvida para praticar a criação de formulários em HTML, utilizando campos de texto, botões de envio, opções de seleção (radio e checkbox), telefone, data de nascimento, labels e agrupamento de elementos com fieldset.
 
+<br>
 
+* 📁 **Arquivo:** `tabelas_.html`
+
+* 💻 [Criação e Formatação de Tabelas em HTML](tabelas_.html)
+
+* **Descrição:** Página desenvolvida para praticar a criação e formatação de tabelas em HTML, utilizando linhas, colunas, cabeçalhos, células, legendas e atributos como `colspan` e `rowspan`, além de estilização com CSS para definir bordas, espaçamento, cores e alinhamento.
 
 
 
