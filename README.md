@@ -8,11 +8,15 @@ Este repositório reúne meus estudos, exercícios e práticas desenvolvidos dur
 
 O projeto está organizado em pastas para facilitar a navegação:
 
-*  📁 **Arquivo:** `arquivo1.html`
+*  📁 **Arquivo:** `estrutura_pagina.html`
   
-*  💰 [Simulador de Juros Compostos](arquivo1.html)
+* 💻 [Mostra de Tecnologia 2026 – Estruturação de Página HTML](estrutura_pagina.html)
   
-* **Descrição:** Script interativo que simula a evolução de um depósito inicial ao longo de 24 meses baseado em uma taxa de juros mensal fixa, exibindo o saldo mês a mês e o lucro total obtido.
+* **Descrição:** Página HTML desenvolvida para apresentar um evento de tecnologia. Utiliza títulos, parágrafos, imagens, links internos, IDs e classes, além da estrutura básica de uma página web.
+
+
+
+
 
 
 
