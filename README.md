@@ -9,6 +9,7 @@ Este repositório reúne meus estudos, exercícios e práticas desenvolvidos dur
 O projeto está organizado em pastas para facilitar a navegação:
 
 <br>
+
 * 📁 **Arquivo:** `primeira_pagina.html`
 
 * 💻 [Minha Primeira Página – Introdução ao HTML](primeira_pagina.html)
