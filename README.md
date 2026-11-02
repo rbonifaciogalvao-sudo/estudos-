@@ -65,7 +65,13 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 * **Descrição:** Página desenvolvida para praticar a estilização de tabelas utilizando HTML e CSS, aplicando bordas, espaçamento interno, alinhamento de texto, cores de fundo e personalização de linhas pares e ímpares com o seletor nth-child().
 
+<br>
 
+* 📁 **Arquivo:** `conteudo_programatico.html`
+
+* 💻 [Organização de Conteúdo Programático com HTML](conteudo_programatico.html)
+
+* **Descrição:** Página desenvolvida para praticar a estruturação de conteúdos utilizando HTML, com títulos, parágrafos, listas ordenadas e não ordenadas, formatação de textos, cores, alinhamento e campos de entrada.
 
 
 
