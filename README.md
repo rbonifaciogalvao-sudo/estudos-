@@ -35,9 +35,9 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 <br>
 
-* 📁 **Arquivo:** `exemplo3.html`
+* 📁 **Arquivo:** `navegacao_links.html`
 
-* 💻 [Navegação entre Seções com Links Internos em HTML](exemplo3.html)
+* 💻 [Navegação entre Seções com Links Internos em HTML](navegacao_links.html)
 
 * **Descrição:** Página desenvolvida para praticar a criação de links internos utilizando âncoras e identificadores (IDs). O exercício apresenta um índice com links para diferentes seções da página (Receita 1, Receita 2 e Receita 3), permitindo navegar diretamente entre os conteúdos e retornar ao índice.
 
