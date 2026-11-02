@@ -82,7 +82,13 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 * **Descrição:** Exercício desenvolvido para praticar a integração entre HTML e JavaScript, utilizando `document.getElementById()` para selecionar elementos da página e `textContent` para alterar textos e apresentar resultados de operações matemáticas.
 
+<br>
 
+* 📁 **Arquivo:** `tabela_regioes.html`
+
+* 💻 [Tabela de Estados e Cidades das Regiões Sul e Sudeste](tabela_regioes.html)
+
+* **Descrição:** Página desenvolvida para praticar a criação de tabelas em HTML, utilizando cabeçalhos, legendas, células mescladas com `colspan` e `rowspan`, além da organização de informações sobre estados e cidades das regiões Sul e Sudeste do Brasil.
 
 
 
