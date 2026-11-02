@@ -41,7 +41,13 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 * **Descrição:** Página desenvolvida para praticar a criação de links internos utilizando âncoras e identificadores (IDs). O exercício apresenta um índice com links para diferentes seções da página (Receita 1, Receita 2 e Receita 3), permitindo navegar diretamente entre os conteúdos e retornar ao índice.
 
+<br>
 
+* 📁 **Arquivo:** `formularios_html`
+
+* 💻 [Formulários e Elementos de Entrada em HTML](formularios_html)
+
+* **Descrição:** Página desenvolvida para praticar a criação de formulários em HTML, utilizando campos de texto, botões de envio, opções de seleção (radio e checkbox), telefone, data de nascimento, labels e agrupamento de elementos com fieldset.
 
 
 
