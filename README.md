@@ -16,7 +16,11 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 
 
+* 📁 **Arquivo:** `primeira_pagina.html`
 
+* 💻 [Minha Primeira Página – Introdução ao HTML](primeira_pagina.html)
+
+* **Descrição:** Página desenvolvida para praticar os primeiros conceitos de HTML, utilizando títulos de diferentes níveis (h1 a h6), parágrafos, linhas horizontais, campos de entrada de texto (input) e formatação de conteúdo. Exercício introdutório de estruturação de páginas web.
 
 
 
