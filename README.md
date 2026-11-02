@@ -73,6 +73,24 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 * **Descrição:** Página desenvolvida para praticar a estruturação de conteúdos utilizando HTML, com títulos, parágrafos, listas ordenadas e não ordenadas, formatação de textos, cores, alinhamento e campos de entrada.
 
+<br>
+
+* 📁 **Arquivos:** `introducao_javascript.html` e `introducao_javascript.js`
+
+* 💻 [Introdução ao JavaScript – Manipulação de Conteúdo HTML](introducao_javascript.html)
+* 💻 [Introdução ao JavaScript – Manipulação de Conteúdo JS](introducao_javascript.js)
+
+* **Descrição:** Exercício desenvolvido para praticar a integração entre HTML e JavaScript, utilizando `document.getElementById()` para selecionar elementos da página e `textContent` para alterar textos e apresentar resultados de operações matemáticas.
+
+
+
+
+
+
+
+
+
+
 
 
 
