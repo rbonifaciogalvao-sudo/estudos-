@@ -18,6 +18,15 @@ O projeto está organizado em pastas para facilitar a navegação:
 
 <br>
 
+* 📁 **Arquivo:** `exemplo2.html`
+
+* 💻 [Primeiro uso do VScode – Listas e Campos de Entrada em HTML](primeiro_uso_vscode.html)
+
+* **Descrição:** Página desenvolvida para praticar conceitos de HTML utilizando parágrafos, campos de entrada de texto, comentários, listas ordenadas e não ordenadas, diferentes estilos de marcadores e listas de definição. Exercício realizado no VS Code para aprimorar os conhecimentos em estruturação de páginas web.
+
+
+<br>
+
 *  📁 **Arquivo:** `estrutura_pagina.html`
   
 * 💻 [Mostra de Tecnologia 2026 – Estruturação de Página HTML](estrutura_pagina.html)
